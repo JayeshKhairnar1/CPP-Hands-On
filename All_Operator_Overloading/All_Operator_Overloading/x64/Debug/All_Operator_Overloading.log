@@ -1,0 +1,11 @@
+﻿  Entry.cpp
+  Insertion_Extraction.cpp
+  New_Delete.cpp
+  Basic_Arithmetic.cpp
+  Person.cpp
+  Pointer_Star.cpp
+  tp.cpp
+  Generating Code...
+Insertion_Extraction.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Console &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEAVConsole@@@Z) already defined in Entry.obj
+tp.obj : error LNK2005: main already defined in Person.obj
+C:\Users\Lenovo\OneDrive\Desktop\Test\All_Operator_Overloading\x64\Debug\All_Operator_Overloading.exe : fatal error LNK1169: one or more multiply defined symbols found

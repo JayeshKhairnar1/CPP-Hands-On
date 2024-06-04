@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC50913B-4991-4E03-868E-A7FF03676968}|Pointer Assignmnet\\Pointer Assignmnet.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC50913B-4991-4E03-868E-A7FF03676968}|Pointer Assignmnet\\Pointer Assignmnet.vcxproj|solutionrelative:Pointer Assignmnet\\Q11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC50913B-4991-4E03-868E-A7FF03676968}|Pointer Assignmnet\\Pointer Assignmnet.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC50913B-4991-4E03-868E-A7FF03676968}|Pointer Assignmnet\\Pointer Assignmnet.vcxproj|solutionrelative:Pointer Assignmnet\\Q10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC50913B-4991-4E03-868E-A7FF03676968}|Pointer Assignmnet\\Pointer Assignmnet.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC50913B-4991-4E03-868E-A7FF03676968}|Pointer Assignmnet\\Pointer Assignmnet.vcxproj|solutionrelative:Pointer Assignmnet\\Q9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q11.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q11.cpp",
+              "RelativeDocumentMoniker": "Pointer Assignmnet\\Q11.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q11.cpp",
+              "RelativeToolTip": "Pointer Assignmnet\\Q11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T17:32:28.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q10.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q10.cpp",
+              "RelativeDocumentMoniker": "Pointer Assignmnet\\Q10.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q10.cpp",
+              "RelativeToolTip": "Pointer Assignmnet\\Q10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T17:21:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q9.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q9.cpp",
+              "RelativeDocumentMoniker": "Pointer Assignmnet\\Q9.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\Pointer Assignmnet\\Pointer Assignmnet\\Q9.cpp",
+              "RelativeToolTip": "Pointer Assignmnet\\Q9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T17:03:20.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

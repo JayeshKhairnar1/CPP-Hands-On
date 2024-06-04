@@ -1,0 +1,21 @@
+1) Write a class (not a class template) and inside it create a function template as a member function. Invoke it from main function.
+
+2)write a class template , which can take any generic type display it and return the size of type passed.
+(hint : in this class template write two functions void disp() and int size() ).
+
+3) Write a class template, which can take 3 different type of arguments and print them.
+a class must have only one constructor and that is a constructor which will take 3 arguments.
+class must have disp function which will display the data.
+
+
+4) Write a class template, which can take 3 different type of arguments. Do not define any constructor for this class template.
+class must have 3 setter methods and 3 getter methods.
+
+
+5) define a class "Emp" with "private int data=100"  
+write a function template,which can accept anything as an argument and display it.
+It can also accept "Emp" class object as an argument and display it 
+( Hint:- insertion operator overloading )
+
+6) define a function template which can take any type of pointer as an argument and by dereferencing it , display the data. Now overload this function template, for int pointer.
+Call these functions (function templates and normal function) from main by passing address of various different variables.

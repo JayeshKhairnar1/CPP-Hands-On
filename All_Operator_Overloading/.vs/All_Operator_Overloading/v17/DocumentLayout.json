@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Basic_Arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|solutionrelative:All_Operator_Overloading\\Basic_Arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Insertion_Extraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|solutionrelative:All_Operator_Overloading\\Insertion_Extraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|solutionrelative:All_Operator_Overloading\\Entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|solutionrelative:All_Operator_Overloading\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Pointer_Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|solutionrelative:All_Operator_Overloading\\Pointer_Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\New_Delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B8CD1A-76EF-41ED-9DCC-221E677D8B20}|All_Operator_Overloading\\All_Operator_Overloading.vcxproj|solutionrelative:All_Operator_Overloading\\New_Delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Person.cpp",
+              "RelativeDocumentMoniker": "All_Operator_Overloading\\Person.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Person.cpp",
+              "RelativeToolTip": "All_Operator_Overloading\\Person.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:17:38.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entry.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Entry.cpp",
+              "RelativeDocumentMoniker": "All_Operator_Overloading\\Entry.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Entry.cpp",
+              "RelativeToolTip": "All_Operator_Overloading\\Entry.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:01:41.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insertion_Extraction.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Insertion_Extraction.cpp",
+              "RelativeDocumentMoniker": "All_Operator_Overloading\\Insertion_Extraction.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Insertion_Extraction.cpp",
+              "RelativeToolTip": "All_Operator_Overloading\\Insertion_Extraction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:01:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "New_Delete.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\New_Delete.cpp",
+              "RelativeDocumentMoniker": "All_Operator_Overloading\\New_Delete.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\New_Delete.cpp",
+              "RelativeToolTip": "All_Operator_Overloading\\New_Delete.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T13:59:13.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pointer_Star.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Pointer_Star.cpp",
+              "RelativeDocumentMoniker": "All_Operator_Overloading\\Pointer_Star.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Pointer_Star.cpp",
+              "RelativeToolTip": "All_Operator_Overloading\\Pointer_Star.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T13:58:50.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basic_Arithmetic.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Basic_Arithmetic.cpp",
+              "RelativeDocumentMoniker": "All_Operator_Overloading\\Basic_Arithmetic.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Test\\All_Operator_Overloading\\All_Operator_Overloading\\Basic_Arithmetic.cpp",
+              "RelativeToolTip": "All_Operator_Overloading\\Basic_Arithmetic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T13:56:48.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
